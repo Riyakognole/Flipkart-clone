@@ -1,0 +1,123 @@
+const products = [{
+        id: 1,
+        name: "Apple iPhone 15",
+        price: 79999,
+        image: "https://m.media-amazon.com/images/I/71TPda7cwUL._SL1500_.jpg",
+    },
+    {
+        id: 2,
+        name: "Samsung Galaxy S23",
+        price: 74999,
+        image: "https://m.media-amazon.com/images/I/81fmVUO3W6L._SL1500_.jpg",
+    },
+    {
+        id: 3,
+        name: "OnePlus 11",
+        price: 57999,
+        image: "https://m.media-amazon.com/images/I/71w4n2lU3JL._SL1500_.jpg",
+    },
+    {
+        id: 4,
+        name: "Google Pixel 7",
+        price: 62999,
+        image: "https://m.media-amazon.com/images/I/713xuNx00oL._SL1500_.jpg",
+    },
+    {
+        id: 5,
+        name: "Xiaomi 13 Pro",
+        price: 59999,
+        image: "https://m.media-amazon.com/images/I/81r1EJVN-kL._SL1500_.jpg",
+    },
+    {
+        id: 6,
+        name: "Sony WH-1000XM5 Headphones",
+        price: 29999,
+        image: "https://m.media-amazon.com/images/I/51SKmu0MR0L._SL1200_.jpg",
+    },
+    {
+        id: 7,
+        name: "Dell XPS 15 Laptop",
+        price: 189999,
+        image: "https://m.media-amazon.com/images/I/71k3gO5DH8L._SL1500_.jpg",
+    },
+    {
+        id: 8,
+        name: "MacBook Air M2",
+        price: 129999,
+        image: "https://m.media-amazon.com/images/I/71vFKBpKakL._SL1500_.jpg",
+    },
+    {
+        id: 9,
+        name: "Sony PlayStation 5",
+        price: 54999,
+        image: "https://m.media-amazon.com/images/I/619BkvKW35L._SL1500_.jpg",
+    },
+    {
+        id: 10,
+        name: "Samsung 55-inch QLED TV",
+        price: 109999,
+        image: "https://m.media-amazon.com/images/I/81v90JtbImL._SL1500_.jpg",
+    },
+    {
+        id: 11,
+        name: "Logitech MX Master 3",
+        price: 7999,
+        image: "https://m.media-amazon.com/images/I/61QNHbMF3nL._SL1500_.jpg",
+    },
+    {
+        id: 12,
+        name: "Amazon Echo Dot (4th Gen)",
+        price: 4499,
+        image: "https://m.media-amazon.com/images/I/61MbLLagiVL._SL1500_.jpg",
+    },
+    {
+        id: 13,
+        name: "Canon EOS 90D DSLR Camera",
+        price: 115999,
+        image: "https://m.media-amazon.com/images/I/71EWRyqzw0L._SL1500_.jpg",
+    },
+    {
+        id: 14,
+        name: "HP Pavilion Gaming Laptop",
+        price: 85999,
+        image: "https://m.media-amazon.com/images/I/81pezrPSgOL._SL1500_.jpg",
+    },
+    {
+        id: 15,
+        name: "Fitbit Charge 5",
+        price: 12999,
+        image: "https://m.media-amazon.com/images/I/61ZXwn3M1qL._SL1500_.jpg",
+    },
+    {
+        id: 16,
+        name: "Bose SoundLink Revolve",
+        price: 15999,
+        image: "https://m.media-amazon.com/images/I/71rYomPJm4L._SL1500_.jpg",
+    },
+    {
+        id: 17,
+        name: "Asus ROG Strix G17",
+        price: 99999,
+        image: "https://m.media-amazon.com/images/I/71QXJg8bQFL._SL1500_.jpg",
+    },
+    {
+        id: 18,
+        name: "Nike Running Shoes",
+        price: 4999,
+        image: "https://m.media-amazon.com/images/I/71z1KzWgIZL._SL1500_.jpg",
+    },
+    {
+        id: 19,
+        name: "Samsung Galaxy Watch 5",
+        price: 26999,
+        image: "https://m.media-amazon.com/images/I/71ckOycfZ-L._SL1500_.jpg",
+    },
+    {
+        id: 20,
+        name: "JBL Flip 6 Bluetooth Speaker",
+        price: 8999,
+        image: "https://m.media-amazon.com/images/I/71yTug9NZPL._SL1500_.jpg",
+    },
+];
+
+export default products;
